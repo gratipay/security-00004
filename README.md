@@ -1,2 +1,1 @@
-# security-00004
-redirect while opening links in new tabs
+## https://github.com/gratipay/security-00004/issues/1
